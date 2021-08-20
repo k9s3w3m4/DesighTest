@@ -1,0 +1,6 @@
+/Users/chenxing.xu/DesighTest/DesignPatterns/DesignPatterns/bin/Debug/DesignPatterns.exe
+/Users/chenxing.xu/DesighTest/DesignPatterns/DesignPatterns/bin/Debug/DesignPatterns.pdb
+/Users/chenxing.xu/DesighTest/DesignPatterns/DesignPatterns/obj/Debug/DesignPatterns.csproj.AssemblyReference.cache
+/Users/chenxing.xu/DesighTest/DesignPatterns/DesignPatterns/obj/Debug/DesignPatterns.csproj.CoreCompileInputs.cache
+/Users/chenxing.xu/DesighTest/DesignPatterns/DesignPatterns/obj/Debug/DesignPatterns.exe
+/Users/chenxing.xu/DesighTest/DesignPatterns/DesignPatterns/obj/Debug/DesignPatterns.pdb

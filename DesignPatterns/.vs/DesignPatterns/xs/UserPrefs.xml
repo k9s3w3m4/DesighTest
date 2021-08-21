@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{E71DD6BF-F185-4A6D-9228-241B46032F6D}|Default">
-  <MonoDevelop.Ide.ItemProperties.DesignPatterns FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DesignPatterns PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="DesignPatterns/Program.cs">
     <Files>
-      <File FileName="DesignPatterns/Program.cs" Line="1" Column="1" />
+      <File FileName="DesignPatterns/Program.cs" Line="12" Column="33" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
